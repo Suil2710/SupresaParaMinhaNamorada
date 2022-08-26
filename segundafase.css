@@ -1,0 +1,31 @@
+body{
+    background-image: url("sprites/sapos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rosybrown;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rosybrown;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+a{
+    color: whitesmoke;
+    background-color: black;
+    font-size: 30px;
+    margin-left: 85%;
+    display: inline;
+    border-style: solid;
+    border-color: black;
+}
