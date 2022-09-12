@@ -1,2 +1,2 @@
 # SupresaParaMinhaNamorada 
-Porjeto que fiz como piada para a minha namorada.
+Projeto que fiz como piada para a minha namorada.
